@@ -1,0 +1,14 @@
+{
+    "CloudAssignedTenantId":  "f7b5c879-0a00-4aec-b5a2-4dde5ba79aa4",
+    "CloudAssignedAutopilotUpdateTimeout":  1800000,
+    "CloudAssignedAutopilotUpdateDisabled":  1,
+    "CloudAssignedForcedEnrollment":  1,
+    "Version":  2049,
+    "Comment_File":  "Profile AutoPilot_Demo_V2",
+    "CloudAssignedAadServerData":  "{\"ZeroTouchConfig\":{\"CloudAssignedTenantUpn\":\"\",\"ForcedEnrollment\":1,\"CloudAssignedTenantDomain\":\"intune.training\"}}",
+    "CloudAssignedOobeConfig":  1310,
+    "CloudAssignedDomainJoinMethod":  0,
+    "ZtdCorrelationId":  "a6e5c889-ab71-46be-aa8b-9626c1d88d85",
+    "CloudAssignedLanguage":  "en-US",
+    "CloudAssignedTenantDomain":  "intune.training"
+}
